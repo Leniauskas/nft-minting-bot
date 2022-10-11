@@ -1,1 +1,2 @@
-*.js linguist-language=Java
+app/* linguist-documentation=false
+app/* linguist-vendored
